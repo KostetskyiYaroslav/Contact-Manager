@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ContactManagerArchitecture1.UIL.GroupUIL"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                          mc:Ignorable="d" Height="676.119" Width="1157.701">
+
+    <Grid>
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <DataGrid  x:Name="GroupTable_DG" AutoGenerateColumns="True"  Width="Auto" IsReadOnly="True" SelectionMode="Single" MouseDoubleClick="GroupTable_DG_MouseDoubleClick_1" Loaded="GroupTable_DG_Loaded" Height="450"  />
+                <Button Content="Update Selected" Width="140" Name="UpdateButton_B" Visibility="Hidden" Click="UpdateButton_B_Click" Margin="3,3,-200,3"/>
+                <Button Content="Delete Selected" Width="140" Name="DeleteButton_B" Visibility="Hidden" Click="DeleteButton_B_Click" Margin="3,-30,200,3"/>
+                <Button Content="Exit From Edit Mode" Width="140" Name="ExitEditMod_B" Visibility="Hidden" Click="ExitEditMod_B_Click" Margin="3,3,3,3" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

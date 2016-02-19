@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="ContactManagerArchitecture1.UIL.AddContactUIL"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+             xmlns:s="clr-namespace:System;assembly=mscorlib"
+           mc:Ignorable="d" Height="676.119" Width="1157.701">
+    <Grid>
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <wpfTool:MaskedTextBox Margin="3,3,3,3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="150"  Name="NewContactPhone_TB" Mask="+38\0 (000) 000000" ValueDataType="{x:Type s:Int32 }" Grid.Row="0"  />
+                <wpfTool:WatermarkTextBox Margin="3,3,3,3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="150" Watermark="Enter First Name there..." Name="NewContactFirstName_TB" Grid.Row="1" />
+                <wpfTool:WatermarkTextBox Margin="3,3,3,3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="150" Watermark="Enter Last Name there..." Name="NewContactLastName_TB" Grid.Row="2"/>
+                <wpfTool:WatermarkTextBox Margin="3,3,3,3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="150" Watermark="Enter Email there..." Name="NewContactEmail_TB" Grid.Row="3"/>
+                <wpfTool:WatermarkTextBox Margin="3,3,3,3"  TextAlignment="Center" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="60" Name="NewContactBirthdayYear_TB"  Grid.Row="4" Watermark="YYYY"/>
+                <wpfTool:WatermarkTextBox Margin="73,-26,3,3" TextAlignment="Center" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="34" Name="NewContactBirthdayMonth_TB" Grid.Row="5" Watermark="MM" />
+                <wpfTool:WatermarkTextBox Margin="113,-26,3,3" TextAlignment="Center" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="34" Name="NewContactBirthdayDay_TB" Grid.Row="6" Watermark="DD" />
+                <wpfTool:WatermarkTextBox Margin="3,3,3,3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="150" Watermark="Enter Comment there..." Name="NewContactComment_TB" Grid.Row="7"/>
+                <ComboBox Margin="3,3,3,3" Width="120" HorizontalAlignment="Left" Name="GroupNameList_CB" Loaded="GroupNameList_CB_Loaded"/>
+
+                <Button  Margin="170,3,3,3" Content="Add" Width="75" Name="AddContact_B" Click="AddContact_B_Click" Grid.Row="7"  HorizontalAlignment="Left" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

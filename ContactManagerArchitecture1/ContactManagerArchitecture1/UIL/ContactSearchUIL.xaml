@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ContactManagerArchitecture1.UIL.ContactSearchUIL"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" Height="676.119" Width="1157.701">
+    <Grid Style="{StaticResource ContentRoot}">
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <DataGrid Name="SearchTable_DG" AutoGenerateColumns="True" Height="551" IsReadOnly="True" Width="857"  HorizontalAlignment="Left"/>
+                <wpfTool:WatermarkTextBox Width="193" Margin="829,-550,3,520" Name="SearchPhone_TB" Watermark="Searche Phone..." SelectionChanged="SearchPhone_TB_SelectionChanged"/>
+                <wpfTool:WatermarkTextBox Width="193" Margin="829,-510,3,480" Name="SearchName_TB" Watermark="Searche Name..."  SelectionChanged="SearchName_TB_SelectionChanged"/>
+                <wpfTool:WatermarkTextBox Width="193" Margin="829,-470,3,440" Name="SearchGroup_TB" Watermark="Searche Group..." SelectionChanged="SearchGroup_TB_SelectionChanged"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

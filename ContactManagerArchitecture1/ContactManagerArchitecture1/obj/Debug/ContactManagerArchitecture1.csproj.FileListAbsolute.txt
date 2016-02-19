@@ -1,0 +1,131 @@
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.exe
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.pdb
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.csprojResolveAssemblyReference.cache
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.baml
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.baml
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.g.cs
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.g.cs
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1_MarkupCompile.cache
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.g.resources
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.exe
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.pdb
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.baml
+c:\users\yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.g.cs
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.baml
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.exe
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.pdb
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.exe
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.pdb
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.csprojResolveAssemblyReference.cache
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Settings\About.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Settings\Appearance.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\SettingsPage.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Settings\About.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Settings\Appearance.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\SettingsPage.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1_MarkupCompile.cache
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.g.resources
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.g.cs
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.baml
+C:\Users\kostecki\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.g.cs
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.baml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.baml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.baml
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.g.cs
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.g.cs
+C:\Users\Yaroslav\Documents\Visual Studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.g.cs
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContactSearchUIL.baml
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContactSearchUIL.g.cs
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactToOtherGroupUIL.baml
+C:\Users\Yaroslav\documents\visual studio 2013\Projects\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactToOtherGroupUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.exe
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.pdb
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.exe
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ContactManagerArchitecture1.pdb
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\FirstFloor.ModernUI.xml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactToOtherGroupUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContactSearchUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.baml
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\MainWindow.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactToOtherGroupUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddContactUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\AddGroupUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContactSearchUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\ContacUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\GroupUIL.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\UIL\Home.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\App.g.cs
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1_MarkupCompile.cache
+E:\Programming\Projects\DesktopProject\Contact-Manager\ContactManagerArchitecture1\ContactManagerArchitecture1\obj\Debug\ContactManagerArchitecture1.g.resources

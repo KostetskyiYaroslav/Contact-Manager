@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ContactManagerArchitecture1.UIL.ContacUIL"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" Height="676.119" Width="1157.701">
+    <Grid>
+        <ScrollViewer>
+            <StackPanel MinWidth="200">
+                <DataGrid  Name="CotnactTable_DG" AutoGenerateColumns="True" Height="551" IsReadOnly="True" SelectionMode="Single" MouseDoubleClick="CotnactTable_DG_MouseDoubleClick" Loaded="CotnactTable_DG_Loaded"/>
+                <Button Content="Update Selected" Width="140" Name="UpdateButton_B" Visibility="Hidden" Click="UpdateButton_B_Click" Margin="3,3,-200,3"/>
+                <Button Content="Delete Selected" Width="140" Name="DeleteButton_B" Visibility="Hidden" Click="DeleteButton_B_Click" Margin="3,-30,200,3"/>
+                <Button Content="Add in other Group" Width="140" Name="AddGroupButton_B" Visibility="Hidden" Click="AddGroupButton_B_Click" Margin="3,-30,200,3"/>
+                <Button Content="Exit From Edit Mode" Width="140" Name="ExitEditMod_B" Visibility="Hidden" Click="ExitEditMod_B_Click" Margin="3,3,3,3" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
